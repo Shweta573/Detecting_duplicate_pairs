@@ -1,0 +1,1 @@
+This project leverages machine learning to identify duplicate questions within a dataset of paired questions, focusing on detecting pairs that express the same meaning despite slight wording variations.
